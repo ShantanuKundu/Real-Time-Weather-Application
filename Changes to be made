@@ -1,0 +1,17 @@
+Usage:-
+
+1. In line 111 of "main.py", change the location of PhotoImage file to the one which is the location of "background.png" in your computer.
+
+2. Right-click on main.py
+
+3. Click on Edit with IDLE
+
+4. Click on 'Run' --> 'Run Module' or press F5
+
+5. Enter the name of the city/town whose weather is to be checked
+
+6. Go to Python Shell and enter the name of the country where the entered city is located
+
+7. To add the resulting data to the database system, click on ADD TO DB
+
+8. The database table will be displayed on the Python Shell
